@@ -1,0 +1,4 @@
+C:\Users\LuanRong\Documents\GitHub\fat3_c1108i_s3_g3\Eproject\Eproject.Common\bin\Debug\Eproject.Common.dll
+C:\Users\LuanRong\Documents\GitHub\fat3_c1108i_s3_g3\Eproject\Eproject.Common\bin\Debug\Eproject.Common.pdb
+C:\Users\LuanRong\Documents\GitHub\fat3_c1108i_s3_g3\Eproject\Eproject.Common\obj\Debug\Eproject.Common.dll
+C:\Users\LuanRong\Documents\GitHub\fat3_c1108i_s3_g3\Eproject\Eproject.Common\obj\Debug\Eproject.Common.pdb

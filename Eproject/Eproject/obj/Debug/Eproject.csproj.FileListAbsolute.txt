@@ -1,0 +1,11 @@
+C:\Users\LuanRong\Documents\GitHub\fat3_c1108i_s3_g3\Eproject\Eproject\bin\Eproject.dll
+C:\Users\LuanRong\Documents\GitHub\fat3_c1108i_s3_g3\Eproject\Eproject\bin\Eproject.pdb
+C:\Users\LuanRong\Documents\GitHub\fat3_c1108i_s3_g3\Eproject\Eproject\bin\Eproject.Business.dll
+C:\Users\LuanRong\Documents\GitHub\fat3_c1108i_s3_g3\Eproject\Eproject\bin\Eproject.Common.dll
+C:\Users\LuanRong\Documents\GitHub\fat3_c1108i_s3_g3\Eproject\Eproject\bin\Eproject.Data.dll
+C:\Users\LuanRong\Documents\GitHub\fat3_c1108i_s3_g3\Eproject\Eproject\bin\Eproject.Business.pdb
+C:\Users\LuanRong\Documents\GitHub\fat3_c1108i_s3_g3\Eproject\Eproject\bin\Eproject.Common.pdb
+C:\Users\LuanRong\Documents\GitHub\fat3_c1108i_s3_g3\Eproject\Eproject\bin\Eproject.Data.pdb
+C:\Users\LuanRong\Documents\GitHub\fat3_c1108i_s3_g3\Eproject\Eproject\obj\Debug\Eproject.csprojResolveAssemblyReference.cache
+C:\Users\LuanRong\Documents\GitHub\fat3_c1108i_s3_g3\Eproject\Eproject\obj\Debug\Eproject.dll
+C:\Users\LuanRong\Documents\GitHub\fat3_c1108i_s3_g3\Eproject\Eproject\obj\Debug\Eproject.pdb
